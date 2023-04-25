@@ -2,6 +2,8 @@
 
 Fighting Game designed and developed by [Vlad-Constantin Comarlau](https://twitter.com/vladcomarlau).
 
+Designed for PICO-8 virtual console.
+
 Playable at [itch.io](https://vladcomarlau.itch.io/hit8ox) and [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=hit8ox-8#p).
 
 A fully 3D fighting game that takes place in several urban environments. 
