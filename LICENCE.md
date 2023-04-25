@@ -1,6 +1,6 @@
 Licence
 
-Copyright (c) 2023 Vlad-Constantin Comarlu
+Copyright (c) 2023 Vlad-Constantin Comarlau
 
 Any person obtaining a copy of this software and associated documentation files (the "Software") is prohibited to sublicense and/or sell copies of the Software.
 
