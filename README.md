@@ -42,12 +42,12 @@ Beware that the fighters get tired and start to sweat.
 
 Manage your hits so you never run out of stamina!
 
-![screemshot3](https://img.itch.zone/aW1nLzExNzgwODgwLmdpZg==/original/Vxe5fi.gif)
+![screenshot3](https://img.itch.zone/aW1nLzExNzgwODgwLmdpZg==/original/Vxe5fi.gif)
 
 ## Custom animations / stages
 
 You can create your own animations and environments using the HIT8OX Game Editor.
-Editor can be found here.
+Editor can be found [here](https://www.lexaloffle.com/bbs/?pid=127982#p).
 
 ## Changelog
 
