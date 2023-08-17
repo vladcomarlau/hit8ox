@@ -1,8 +1,6 @@
 ![logo](https://img.itch.zone/aW1nLzExOTY3NjMyLnBuZw==/original/4OnSXD.png)
 
-Fighting Game designed and developed by [Vlad-Constantin Comarlau](https://twitter.com/vladcomarlau).
-
-Designed for PICO-8 virtual console.
+Fighting Game designed for PICO-8 virtual console.
 
 Playable at [itch.io](https://vladcomarlau.itch.io/hit8ox) and [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=hit8ox-8#p).
 
